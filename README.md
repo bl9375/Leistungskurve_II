@@ -10,7 +10,7 @@ Die Daten werden aus einer CSV-Datei eingelesen, und in einem DataFrame berechne
 ## Voraussetzungen
 
 Für das Projekt werden Python sowie die Bibliotheken `pandas`, `numpy` und `matplotlib` benötigt. 
-Dafür starten wir im Terminal mit dem Befehl: ´´´pip install -r requirements.txt !´´´
+Dafür starten wir im Terminal mit dem Befehl: ```pip install -r requirements.txt !```
 
 ## Ausführen
 
