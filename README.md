@@ -22,3 +22,5 @@ Das Programm erstellt:
 - eine berechnete Power-Curve als DataFrame mit Zeit in Sekunden und Leistung in Watt
 - einen Plot der Power-Curve,
 - sowie einen Screenshot `screenshot.png` für die Dokumentation in diesem Repository.
+
+- [Power Curve ansehen](power_curve.html)
