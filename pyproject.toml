@@ -1,0 +1,15 @@
+[project]
+name = "Leistungskurve_2"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Lukas Behensky", email = "bl9375@mci4me.at"},
+]
+dependencies = ["numpy>=2.4.6", "matplotlib>=3.10.9", "pandas>=3.0.3", "plotly>=6.7.0"]
+requires-python = "==3.14.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
